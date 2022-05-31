@@ -1,0 +1,1 @@
+jQuery project assignment from the Angela Yu's Bootcamp.
